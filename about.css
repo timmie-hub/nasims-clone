@@ -1,0 +1,62 @@
+
+
+@media(max-width:768px) {}
+
+
+@media(max-width: 425px){ }
+
+@media(max-width: 350px){ }
+
+.navbar{width: 36cm; height: 2.6cm;}
+ 
+.login{width: 5.7cm;
+    height: 1.5cm;
+     background-color: rgb(1, 85, 1);
+       border-radius:5px;
+        border-color:transparent; 
+        margin-right: 1cm;}
+
+.sec1{background-image:url(download/about-hero.f21246b.webp);filter: brightness(80%); text-align: center; color: white;}        
+
+.pee{font-size: xx-large; font: 3em sans-serif;}
+
+.pee1{filter: brightness(120%);}
+
+.sec2{background-color: rgb(250, 246, 239);}
+
+.read{text-decoration: none; color: green; font-weight: 500;}
+
+.body{margin-left: -5.5cm;}
+
+.hhgf{text-align: center;}
+
+.date{font-size: smaller; 
+    text-decoration: underline; 
+    text-decoration-color: rgb(247, 225, 27); 
+     text-decoration-thickness: 2px; text-decoration-skip: 1cm; text-underline-offset:9px; }
+
+     .test{font-size: small;}
+
+     .card3{width: 5.5cm;
+        height: 1.5cm;
+         background-color: rgb(1, 85, 1);
+          text-align: center;
+           border-radius:5px;
+            border-color:transparent; 
+            color: white; margin-left: 15cm;}
+
+            .sec3{background-color: black; 
+                color: white; text-align: 
+                center; height: 6cm;}   
+
+  .sec4{text-align: center;}    
+
+.foot{background-color: rgb(1, 63, 1); text-align: center; }
+
+.sec5{height: 5cm;}
+
+.link{text-decoration: none; color: white;}
+
+.linker{text-decoration: none; color: white;}
+
+.href2{ text-align: center;  color: white; text-decoration: none;}

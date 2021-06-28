@@ -1,21 +1,20 @@
 
 
-@media(max-width:768px) {}
+/* @media(max-width:768px) {}
 
 
-@media(max-width: 425px){.navbar1{float: right; margin-top: 1cm;} }
+@media(max-width: 425px){}
 
-@media(max-width: 350px){ .navbar1{float: right; margin-top: 1cm;}}
+@media(max-width: 350px){[class="col-sd-6"] } */
 
 .navbar{width: 36cm; height: 2.6cm;}
 
 .login{width: 5.7cm;
         height: 1.5cm;
          background-color: rgb(1, 85, 1);
-          text-align: center;
            border-radius:5px;
             border-color:transparent; 
-            color: white; margin-right: 1cm;}
+             margin-right: 1cm;}
 
 .font1{font-size:medium; margin-top: 0.2cm; padding-left:1cm;}      
 
@@ -49,7 +48,7 @@
 
 .imge{margin-left: 4.5cm;}
 
-.sec1{background-color: rgb(225, 236, 243);}
+.sec1{background-color: rgb(225, 236, 243); height: 25cm;}
 
 .sec2{text-align: center; padding-top: 1.5cm; margin-top: 2cm;}
 
@@ -72,6 +71,37 @@
 
 .h44{color: orange;}  
 
-.eat{width: 17cm; /* width of container */
-    height: 5cm; /* height of container */
-    overflow: hidden;margin: -3px 0px 0px -20px;}
+.date{font-size: smaller; 
+    text-decoration: underline; 
+    text-decoration-color: rgb(247, 225, 27); 
+     text-decoration-thickness: 2px; text-decoration-skip: 1cm; text-underline-offset:9px; }
+
+.hhgf{text-align: center;}
+
+.progr{width: 20cm;}
+
+.test{font-size: small;}
+
+.card3{width: 5.5cm;
+    height: 1.5cm;
+     background-color: rgb(1, 85, 1);
+      text-align: center;
+       border-radius:5px;
+        border-color:transparent; 
+        color: white; margin-left: 15cm;}
+
+.sec3{background-color: black; 
+    color: white; text-align: 
+    center; height: 6cm;}   
+    
+.sec4{text-align: center;}    
+
+.foot{background-color: rgb(1, 63, 1); text-align: center; }
+
+.sec5{height: 5cm;}
+
+.link{text-decoration: none; color: white;}
+
+.pee{color: white;}
+
+.href2{ text-align: center;  color: white; text-decoration: none;}

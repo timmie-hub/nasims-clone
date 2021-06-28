@@ -1,0 +1,21 @@
+.navbar{width: 36cm; height: 2.6cm;}
+
+.log1{background-color: rgb(189, 228, 189); margin-right: 3cm; height: 21cm;}
+
+.h6{color: rgb(88, 155, 124); padding-left: 1cm;}
+
+.pee{color: rgb(88, 155, 124); padding-left: 1cm;}
+
+.log2{padding-left: 2cm; line-height: 0.9cm;}
+
+.input{width: 11cm; border-radius: 5px; height: 1.3cm; border-color:grey; border-width:thin; }
+
+.input1{margin-top: 5.5cm; margin-left: 6cm;}
+
+.card3{width: 11cm;
+    height: 1.3cm;
+     background-color:rgb(88, 155, 124);
+      text-align: center;
+       border-radius:5px;
+        border-color:transparent; 
+        color: white; border-radius: 5px;}
