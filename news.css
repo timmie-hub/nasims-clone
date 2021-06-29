@@ -1,6 +1,6 @@
 .sec2{background-color: rgb(253, 234, 252); text-align: center; }
 
-.navbar{width: 36cm; height: 2.6cm;}
+
  
 .login{width: 5.7cm;
     height: 1.5cm;
@@ -8,6 +8,10 @@
        border-radius:5px;
         border-color:transparent; 
          margin-right: 1cm;}
+
+         .group{padding-left: 9cm;}
+
+.font1{font-size:medium; margin-top: 0.2cm; padding-left:1cm; font-weight: bold;}      
 
 .col1{margin-left: 1cm; margin-right:-1cm;}
 
