@@ -19,7 +19,7 @@
 
 .font1{font-size:medium; margin-top: 0.2cm; padding-left:1cm; font-weight: bold;}      
 
-.img1{margin-left: 3.2cm; margin-top: 1cm; }
+.img1{margin-left: 3.2cm; margin-top: 3cm; }
 
 .carol{background-color:rgb(252, 249, 237);}
 
@@ -45,13 +45,11 @@
 
 .pres2{color: orange; font-weight: 500; text-decoration: none;}
 
-.pres3{margin-left:1cm;}
-
 .imge{margin-left: 4.5cm;}
 
-.sec1{background-color: rgb(225, 236, 243); height: 25cm;}
+.sec1{background-color: rgb(225, 236, 243);}
 
-.sec2{text-align: center; padding-top: 1.5cm; margin-top: 2cm;}
+.sec2{text-align: center; padding-top: 1.5cm; margin-top: 1cm;}
 
 .card1{width: 5.5cm;
     height: 1.5cm;
@@ -106,3 +104,4 @@
 .pee{color: white;}
 
 .href2{ text-align: center;  color: white; text-decoration: none;}
+
