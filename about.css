@@ -19,7 +19,8 @@
 .font1{font-size:medium; margin-top: 0.2cm; padding-left:1cm; font-weight: bold;}      
 
 
-.sec1{background-image:url(download/about-hero.f21246b.webp);filter: brightness(80%); text-align: center; color: white;}        
+.sec1{background-image:url(download/about-hero.f21246b.webp);filter: brightness(80%);
+   text-align: center; color: white;}        
 
 .pee{font-size: xx-large; font: 3em sans-serif;}
 
