@@ -1,11 +1,11 @@
 
 
-/* @media(max-width:768px) {}
+ @media(max-width:768px) { .black{font-size: smaller;} .image6{margin-inline-start: auto;} .col-sd-6{margin: auto;} }
 
 
 @media(max-width: 425px){}
 
-@media(max-width: 350px){[class="col-sd-6"] } */
+@media(max-width: 350px){} 
 
 
 .login{width: 5.7cm;
